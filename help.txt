@@ -1,0 +1,6 @@
+navbar(font-size)
+xl,lg,md		sm		col
+22px			22px    20px
+
+text color
+color: #010101;
